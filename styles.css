@@ -46,7 +46,7 @@ body{
 
 .second-container{
     height: 660px;
-    background-image:url(yo.png) ;
+    background-image:url(images/yo.png) ;
     background-repeat: no-repeat;
     background-size: auto ;
     background-position: center;
